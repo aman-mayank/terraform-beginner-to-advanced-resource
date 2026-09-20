@@ -31,3 +31,7 @@ The code mentioned in this document are used in the HashiCorp Certified Terrafor
    [PlDi]: <./clarity-state-file.md>   
    [PlDj]: <./refresh.tf>
    [PlDk]: <./provider-versioning.md>
+
+
+
+<img width="1308" height="692" alt="image" src="https://github.com/user-attachments/assets/f2ac0c2c-e9ce-4b2d-874f-65582bcaa616" />
